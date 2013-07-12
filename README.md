@@ -25,7 +25,7 @@ Iteration 2
 
 Iteration 3
 -----------
-* Methods are less than 3 lines
+* Methods are less or equal than 3 lines
 * Infinite game field (we're failed actually, we made it cyclic)
 * Don't use mouse :)
 * You and your teammate exchange seats every 5 minutes
